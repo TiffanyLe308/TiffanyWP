@@ -83,49 +83,37 @@ get_header(); ?>
       <div class="home-about-intro">
         <div class="row">
           <div class="col-xs-12 col-sm-6 col-md-4">
-            <img class="img-thumbnail" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_1.jpg"/>
+            <img class="img-thumbnail" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_12.jpg"/>
             <div class="home-about-description">
               <p>
                 Tiffany Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas elementum ultricies. Nulla facilisi. Mauris et urna nec dui porta elementum.
               </p>
             </div>
           </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <img class="img-thumbnail" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_1.jpg"/>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <img class="img-thumbnail" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_1.jpg"/>
-          </div>
-        </div>
 
-        <div class="row">
           <div class="col-xs-12 col-sm-6 col-md-4">
-            <img class="img-thumbnail" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_2.jpg"/>
+            <img class="img-thumbnail" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_13.jpg"/>
+            <div class="home-about-description">
+              <p>
+                Tiffany Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas elementum ultricies. Nulla facilisi. Mauris et urna nec dui porta elementum.
+              </p>
+            </div>
           </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <img class="img-thumbnail" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_2.jpg"/>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <img class="img-thumbnail" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_2.jpg"/>
-          </div>
-        </div>
 
-        <div class="row">
           <div class="col-xs-12 col-sm-6 col-md-4">
-            <img class="img-thumbnail" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_1.jpg"/>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <img class="img-thumbnail" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_1.jpg"/>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <img class="img-thumbnail" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_1.jpg"/>
+            <img class="img-thumbnail" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_14.jpg"/>
+            <div class="home-about-description">
+              <p>
+                Tiffany Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas elementum ultricies. Nulla facilisi. Mauris et urna nec dui porta elementum.
+              </p>
+            </div>
           </div>
         </div>
-      </div>      
+      </div>
     </div>
   </div>
 
-  <div class="home-contact">
+  <div class="home-skill">
     <div class="container">
       <h2>New ideas to new life</h2>
       <p>
@@ -134,37 +122,25 @@ get_header(); ?>
 
       <div class="row">
         <div class="col-xs-12 col-sm-6 col-md-4">
-          <img class="img-thumbnail img-circle" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_7.jpg"/>
+          <img class="img-thumbnail img-circle" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_15.jpg"/>
         </div>
         <div class="col-xs-12 col-sm-6 col-md-4">
-          <img class="img-thumbnail img-circle" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_8.jpg"/>
+          <img class="img-thumbnail img-circle" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_16s.jpg"/>
         </div>
         <div class="col-xs-12 col-sm-6 col-md-4">
-          <img class="img-thumbnail img-circle" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_9.jpg"/>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <img class="img-thumbnail img-circle" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_10.jpg"/>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <img class="img-thumbnail img-circle" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_11.jpg"/>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <img class="img-thumbnail img-circle" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_7.jpg"/>
+          <img class="img-thumbnail img-circle" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_17.jpg"/>
         </div>
       </div>
 
       <div class="row">
         <div class="col-xs-12 col-sm-6 col-md-4">
-          <img class="img-thumbnail img-circle" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_8.jpg"/>
+          <img class="img-thumbnail img-circle" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_18.jpg"/>
         </div>
         <div class="col-xs-12 col-sm-6 col-md-4">
-          <img class="img-thumbnail img-circle" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_9.jpg"/>
+          <img class="img-thumbnail img-circle" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_19.jpg"/>
         </div>
         <div class="col-xs-12 col-sm-6 col-md-4">
-          <img class="img-thumbnail img-circle" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_10.jpg"/>
+          <img class="img-thumbnail img-circle" src="<?php bloginfo('stylesheet_directory'); ?>/images/img_20.jpg"/>
         </div>
       </div>
     </div>

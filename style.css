@@ -504,6 +504,14 @@ h3 {
   width: 133%;
 }
 
+.home .home-skill .container .row {
+	margin-bottom: 2em;
+}
+
+.home .home-skill .img-thumbnail {
+	max-height: 280px;
+}
+
 
 /*--------------------------------------------------------------
 ## Footer
@@ -511,7 +519,7 @@ h3 {
 
 .footer {
 	text-align: center;
-	background-color: #FBFFFF;
+	background-color: #F6F6F6;
 }
 
 /*--------------------------------------------------------------
